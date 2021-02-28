@@ -17,8 +17,7 @@
 <br>
 <p>Help others to feel happy.</p><br>
 <p style="font-family:courier;">The creative adult is the child who survived </p><br>
-<a href=
-third.html> go to the next</a>
+<a href=third.html> go to the next</a>
 
 </body>
 </html>
