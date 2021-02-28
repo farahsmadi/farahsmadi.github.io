@@ -1,31 +1,24 @@
-# farahsmadi.github.io
 <!DOCTYPE html>
 <html>
 <head>
-<title>first page</title>
+<title>second page</title>
 <style>
-p.dotted {border-style: dotted;}
-p.dashed {border-style: dashed;}
-p.solid {border-style: solid;}
-p.double {border-style: double;}
-p.groove {border-style: groove;}
-body {background-color: black;}
-h1   {color: blue;}
-p    {color: red;}
+ h1 { margin-left: 20px;
+ color: red;}
+ body {background-color:white;}
+ p    {color: red;}
 </style>
 </head>
 <body>
-<p class="dotted">leen.</p>
-<p class="dashed">nablus.</p>
-<p class="solid">palestine.</p>
-<p class="double">A double border.</p>
-<p class="groove">A groove border.</p>
-<h1 style="font-family:verdana;">welcome </h1>
-<p>web time</p><br>
+<h1 style="text-align:center;">have a nice day</h1>
+<p>Be loving to those who love you.</p>
+<br>
+<p>Be faithful enough to believe in miracles.</p>
+<br>
+<p>Help others to feel happy.</p><br>
+<p style="font-family:courier;">The creative adult is the child who survived </p><br>
 <a href=
-C:/Users/Lenovo/Desktop/second.html>
-
-<img src="leen.jpg" alt="usa" width="500" height="500"></a>
+third.html> go to the next</a>
 
 </body>
 </html>
